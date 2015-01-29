@@ -1,0 +1,12 @@
+
+/* Class = "IBUIButton"; normalTitle = "Start"; ObjectID = "8Ct-zP-czI"; */
+"8Ct-zP-czI.normalTitle" = "Start";
+
+/* Class = "IBUIButton"; normalTitle = "Stop"; ObjectID = "L0w-Oc-bbE"; */
+"L0w-Oc-bbE.normalTitle" = "Stop";
+
+/* Class = "IBUILabel"; text = "Number of Times"; ObjectID = "cKt-HQ-lwA"; */
+"cKt-HQ-lwA.text" = "Number of Times";
+
+/* Class = "IBUILabel"; text = "Hypothesis"; ObjectID = "o2E-mJ-lGn"; */
+"o2E-mJ-lGn.text" = "Hypothesis";
